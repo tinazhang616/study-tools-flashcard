@@ -1,6 +1,5 @@
 # Project: Flashcard-o-matic
 ![alt text](./src/screenshot/mainpage.png)
-Live site: https://study-flashcard.onrender.com/
 
 ## Description
 A flashcard application, Flashcard-o-matic, to help the students study online. Users will use this application to create decks of flashcards for the subjects they study.<br/>
@@ -14,5 +13,5 @@ A flashcard application, Flashcard-o-matic, to help the students study online. U
 
 ## Installation instructions
 1. Run npm install to install project dependencies.
-2. Run npm run start to start your server in development mode.
+2. Run npm run start to start your server and front-end in development mode.
 
